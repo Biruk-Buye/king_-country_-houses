@@ -11,7 +11,7 @@ Each team member focused  on one model, gaining in-depth understanding of its wo
 
 **Machine Learning Models**
 
-The models were divided as such: XGBoost (Elham) XGBoost >$650K (Biruk), Linear Regression (Sara), KNeighborsRegressor (Scott).
+The models were divided as such: XGBoost (Elham), XGBoost >$650K (Biruk), Linear Regression (Sara), KNeighborsRegressor (Scott).
 
 **Deliverables**
 
