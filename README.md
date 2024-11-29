@@ -11,7 +11,7 @@ Each team member focused  on one model, gaining in-depth understanding of its wo
 
 **Machine Learning Models**
 
-The models were divided as such: Lasso (Elham) XGBoost (Biruk), Linear Regression (Sara), KNN Regression (Scott).
+The models were divided as such: XGBoost (Elham) XGBoost >$650K (Biruk), Linear Regression (Sara), KNN Regression (Scott).
 
 **Deliverables**
 
@@ -21,4 +21,4 @@ The models were divided as such: Lasso (Elham) XGBoost (Biruk), Linear Regressio
 
 **Conclusion**
 
-Upon comparing models, we found that Lasso had the greatest predictive power.
+Upon comparing models, we found that XGBoost had the greatest predictive power.
