@@ -17,7 +17,7 @@ The models were divided as such: XGBoost (Elham), XGBoost >$650K (Biruk), Linear
 
 * Jupyter Notebooks contains all the steps taken to clean the data, build models, and evaluate performance.
   
-* In-class presentation summarising the machine learning process and key findings.
+* In-class presentation summarising the machine learning process and key findings (https://docs.google.com/presentation/d/1ryTToCzhcti4QRrpPf8mTTVwP-lYcYQiOeeMweWbR7E/edit?usp=sharing).
 
 **Conclusion**
 
